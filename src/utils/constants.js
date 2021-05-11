@@ -1,0 +1,1 @@
+export const professions = ['a Kundalini yoga teacher', 'an art therapist', 'an Italian language teacher', 'a vegan lifestyle advisor', 'a mother of 3']

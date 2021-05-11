@@ -1,10 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+
 .header {
-  padding: 1rem 0 3rem;
+  padding: 1.5rem;
+  display: flex;
+  height: 100px;
+  width: 100%;
+  line-height: 35px;
+  background-color: #f6f6f6;
+  justify-content: space-between;
+  align-items: baseline;
+  box-shadow: 1px 2px 3px rgba(173, 130, 130, 0.1);
+  position: fixed;
+  z-index: 10;
 }
 
 .title {
   color: black;
-  font-size: 3rem;
+  font-family: playfair-display;
+  //font-size: 3rem;
   text-decoration: none;
 }
 

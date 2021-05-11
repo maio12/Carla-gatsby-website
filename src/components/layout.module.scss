@@ -1,6 +1,7 @@
 .container {
   margin: 0 auto;
-  max-width: 750px;
+  max-width: 1280px;
+  overflow: hidden;
   padding: 1rem;
 
   display: flex;
@@ -10,4 +11,7 @@
 
 .content {
   flex-grow: 1;
+  margin-top: 10%;
+  padding: 5em;
 }
+
